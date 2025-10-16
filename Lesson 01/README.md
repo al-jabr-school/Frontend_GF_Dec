@@ -7,7 +7,7 @@ Biz o'tadigan mavzular:
 - **Markdown**: (.md)
 - **JavaScript**: (.js)
 - **React.js**: (.jsx)
-- **Tailwind CSS**: (.css)
+- **Tailwind CSS**: (.html)
 
 ## HTML
 
